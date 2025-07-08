@@ -12,3 +12,4 @@ vi	i	edit
 
 Login in PuTTY (see HowTo_crontab/images/OpenPuTTY)
 https://github.com/LEEhahahh/HowTo_crontab/blob/main/images/open_putty.png
+<img src="https://github.com/LEEhahahh/HowTo_crontab/blob/main/images/open_putty.png" width=800>
