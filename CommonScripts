@@ -1,0 +1,9 @@
+List cron jobs in current path: crontab -l
+Edit cron jobs in current path: crontab -e
+crontab -r: delete
+
+:wq	save and exit
+:q!	not save and exit
+
+vi	i	edit
+	Esc	view
