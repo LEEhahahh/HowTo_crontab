@@ -1,0 +1,15 @@
+List cron jobs in current path: crontab -l
+Edit cron jobs in current path: crontab -e
+crontab -r: delete
+
+:wq	save and exit
+:q!	not save and exit
+
+vi	i	edit
+	Esc	view
+
+
+
+Login in PuTTY (see HowTo_crontab/images/OpenPuTTY)
+
+<img src="https://github.com/LEEhahahh/HowTo_crontab/blob/main/images/OpenPuTTY.png" width=800>
